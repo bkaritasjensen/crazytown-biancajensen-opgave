@@ -3,12 +3,15 @@
 
 
 ## Fase 1
-Der skal i JS, indsætte en Api som hentes online, for at skåne serveren. Tjek i console.log at det virker, inden du går videre til næste fase.
+Der skal i JSON, indsættes en Api med nogle hunde, som hentes online, for at skåne serveren. Api'en skal blive vist på siden. 
 
-## Fase 2 
-Du skal hente en animations loader, som kører når Api opdateres og bliver skjult når api'en er uploadet.
+
+## Fase 2
+Der skal være en knap som hedder 'Opdater', som ændre Api hunde billedet. 
+
 
 ## Fase 3
-Der skal være en knap som hedder 'Opdater', som ændre Api billedet, når der bliver trykket på den og igen der skal køre en loader mens api'en bliver hentet, og er skjult når Api'en er hentet ned. 
+Når billedet bliver ændret, skal der køre en animations loader, mens billedet bliver hentet online og forsvinder når billedet er uploadet.
+
 
 
